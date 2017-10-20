@@ -15,3 +15,7 @@ Do not enter any paraphrase, instead just press [enter].
     StrictHostKeyChecking no
     UserKnownHostsFile=/dev/null
 
+
+### to prevent errors from running, run the command like this:
+
+## bash ./sshLess.sh
